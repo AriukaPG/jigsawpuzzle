@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "459072984986",
+    "project_id": "puzzle-867ca",
+    "storage_bucket": "puzzle-867ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459072984986:android:d36d2e22fc873b7cf28c23",
+        "android_client_info": {
+          "package_name": "com.example.jigsawpuzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIc_d_OGci7nDogdDtN7LJSqhz1mzVfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459072984986:android:d0643d5ea516bbf8f28c23",
+        "android_client_info": {
+          "package_name": "com.example.puzzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIc_d_OGci7nDogdDtN7LJSqhz1mzVfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459072984986:android:ae1122540eefcb74f28c23",
+        "android_client_info": {
+          "package_name": "com.example.puzzlegame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIc_d_OGci7nDogdDtN7LJSqhz1mzVfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
